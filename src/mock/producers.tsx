@@ -15,31 +15,31 @@ const producers = {
             name: "Green",
             image: green,
             distance: `${randomResult(1, 500)}m`,
-            stara: randomResult(1, 5),
+            stars: randomResult(1, 5),
         },
         {
             name: "Grow",
             image: grow,
             distance: `${randomResult(1, 500)}m`,
-            stara: randomResult(1, 5),
+            stars: randomResult(1, 5),
         },
         {
             name: "Janny Jack Farm",
             image: jannyJack,
             distance: `${randomResult(1, 500)}m`,
-            stara: randomResult(1, 5),
+            stars: randomResult(1, 5),
         },
         {
             name: "Potager",
             image: potager,
             distance: `${randomResult(1, 500)}m`,
-            stara: randomResult(1, 5),
+            stars: randomResult(1, 5),
         },
         {
             name: "Salad",
             image: salad,
             distance: `${randomResult(1, 500)}m`,
-            stara: randomResult(1, 5),
+            stars: randomResult(1, 5),
         },
     ]
 }
